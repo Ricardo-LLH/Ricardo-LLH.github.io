@@ -6,9 +6,10 @@
     <content><![CDATA[<p>首次踏足一个新的领域世界，就要面临着新的受众，运用新的方式，面临新的困难<br>所以在当波涛汹涌的世界面前，我们能做到的唯有常新而已</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post-后面会创建一个新的博客"><a href="#Create-a-new-post-后面会创建一个新的博客" class="headerlink" title="Create a new post 后面会创建一个新的博客"></a>Create a new post 后面会创建一个新的博客</h3><img src="/images/屏幕截图 2022-08-30 165611.jpg">
 
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+
+
+
 <h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
@@ -19,5 +20,19 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>初步学习javascrip</title>
+    <url>/2022/09/03/%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0javascrip/</url>
+    <content><![CDATA[ <img src="/2022/09/03/%E5%88%9D%E6%AD%A5%E5%AD%A6%E4%B9%A0javascrip/images\QQ图片20220903152814.jpf">
+
+
+
+<hr>
+<p> 我这里由于采用的是外部链接，所以只展示javascrip部分的样式表<br>，html表中并无内容：</p>
+]]></content>
+      <tags>
+        <tag>javascrip 现在进行初步的js练习。</tag>
+      </tags>
   </entry>
 </search>
